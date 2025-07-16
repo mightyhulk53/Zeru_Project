@@ -9,12 +9,6 @@ This project generates **credit scores (0–1000)** for wallets based on histori
 - [🔧 Features](#-features)
 - [🧠 Labeling Logic](#-labeling-logic)
 - [⚙️ Architecture](#️-architecture)
-- [🚀 Quick Start](#-quick-start)
-- [📈 Output](#-output)
-- [📊 Score Analysis](#-score-analysis)
-- [🔐 Privacy Notes](#-privacy-notes)
-- [🧩 Extending the Model](#-extending-the-model)
-- [📜 License](#-license)
 
 ---
 
