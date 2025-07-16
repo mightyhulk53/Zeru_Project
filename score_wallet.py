@@ -23,6 +23,9 @@ def main():
     df_raw = read_jsonl(args.input)
     print(f"Loaded {len(df_raw):,} transactions.")
 
+    print("🧾 Raw columns:", df_raw.columns.tolist())
+    print(df_raw.head(2).to_dict())
+
     print("⚙️  Building features…")
     df_feat = build_features(df_raw)
 
